@@ -1,17 +1,17 @@
 # A Hierarchical Architecture for Neural Materials
 
-[![Paper](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15116?af=R))
-[![arXiv](https://arxiv.org/abs/2307.10135))
-[![Project Page]([https://your-project-page.github.io](https://github.com/yley123/A-Hierarchical-Architecture-for-Neural-Materials))
+[![Paper](https://img.shields.io/badge/Paper-CGF%202024-blue)](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15116?af=R)
+[![arXiv](https://img.shields.io/badge/arXiv-2307.10135-b31b1b.svg)](https://arxiv.org/abs/2307.10135)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://github.com/yley123/A-Hierarchical-Architecture-for-Neural-Materials)
 
-[Bowen Xue]<sup>1</sup>, 
+[Bowen Xue](mailto:bowen.xue@postgrad.manchester.ac.uk)<sup>1</sup>, 
 [Shuang Zhao](https://shuangz.com)<sup>2</sup>, 
 [Henrik Wann Jensen](https://henrikwann.com)<sup>3</sup>, 
-[Zahra Montazeri]<sup>1</sup>
+[Zahra Montazeri](mailto:zahra.montazeri@manchester.ac.uk)<sup>1</sup>
 
 <sup>1</sup>University of Manchester, <sup>2</sup>UC Irvine, <sup>3</sup>Luxion Inc
 
-
+This repository contains the official implementation of our Computer Graphics Forum 2024 paper "A Hierarchical Architecture for Neural Materials".
 
 ## 📰 News
 - **[June 2024]** Paper accepted to Computer Graphics Forum!
@@ -28,18 +28,13 @@ Neural reflectance models are capable of reproducing the spatially-varying appea
 - 🎯 **88% Error Reduction**: Compared to NeuMIP baseline with only 25% additional compute
 - 🔍 **Multi-Resolution**: Accurate rendering at all levels of detail
 
-
-
 ## 🚀 Getting Started
-
-
 
 ### Quick Start
 ```bash
 # Train a neural material model
 python neural_rendering.py --dataset /your/dataset/path
 ```
-
 
 ## 📖 Citation
 
@@ -61,5 +56,4 @@ If you find our work useful, please cite:
 
 For questions and feedback:
 - Bowen Xue: bowen.xue@postgrad.manchester.ac.uk
-- Project page: [[https://your-project-page.github.io](https://your-project-page.github.io)](https://github.com/yley123/A-Hierarchical-Architecture-for-Neural-Materials)
-
+- Project page: [https://github.com/yley123/A-Hierarchical-Architecture-for-Neural-Materials](https://github.com/yley123/A-Hierarchical-Architecture-for-Neural-Materials)
