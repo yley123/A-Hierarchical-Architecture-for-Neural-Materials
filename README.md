@@ -6,7 +6,7 @@
 
 [Bowen Xue](mailto:bowen.xue@postgrad.manchester.ac.uk)<sup>1</sup>, 
 [Shuang Zhao](https://shuangz.com)<sup>2</sup>, 
-[Henrik Wann Jensen](https://henrikwann.com)<sup>3</sup>, 
+[Henrik Wann Jensen](http://graphics.ucsd.edu/~henrik/)<sup>3</sup>, 
 [Zahra Montazeri](mailto:zahra.montazeri@manchester.ac.uk)<sup>1</sup>
 
 <sup>1</sup>University of Manchester, <sup>2</sup>UC Irvine, <sup>3</sup>Luxion Inc
