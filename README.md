@@ -11,8 +11,6 @@
 
 <sup>1</sup>University of Manchester, <sup>2</sup>UC Irvine, <sup>3</sup>Luxion Inc
 
-This repository contains the official implementation of our Computer Graphics Forum 2024 paper "A Hierarchical Architecture for Neural Materials".
-
 ## 📰 News
 - **[June 2024]** Paper accepted to Computer Graphics Forum!
 
