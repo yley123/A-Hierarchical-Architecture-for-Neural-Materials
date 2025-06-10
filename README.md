@@ -1,8 +1,8 @@
 # A Hierarchical Architecture for Neural Materials
 
-[![Paper](https://img.shields.io/badge/Paper-CGF%202024-blue)]([https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15116](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15116?af=R))
-[![arXiv](https://img.shields.io/badge/arXiv-2024.xxxxx-b31b1b.svg)]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2307.10135))
-[![Project Page](https://img.shields.io/badge/Project-Page-green)]([https://your-project-page.github.io](https://github.com/yley123/A-Hierarchical-Architecture-for-Neural-Materials))
+[![Paper](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15116?af=R))
+[![arXiv](https://arxiv.org/abs/2307.10135))
+[![Project Page]([https://your-project-page.github.io](https://github.com/yley123/A-Hierarchical-Architecture-for-Neural-Materials))
 
 [Bowen Xue]<sup>1</sup>, 
 [Shuang Zhao](https://shuangz.com)<sup>2</sup>, 
@@ -11,17 +11,10 @@
 
 <sup>1</sup>University of Manchester, <sup>2</sup>UC Irvine, <sup>3</sup>Luxion Inc
 
-This repository contains the official implementation of our Computer Graphics Forum 2024 paper "A Hierarchical Architecture for Neural Materials".
 
-<p align="center">
-  <img src="assets/teaser.jpg" width="100%">
-  <br>
-  <em>Our neural material model captures complex self-shadowing and sharp highlights that existing methods like NeuMIP miss, achieving 88% lower error.</em>
-</p>
 
 ## 📰 News
 - **[June 2024]** Paper accepted to Computer Graphics Forum!
-- **[June 2024]** Code release coming soon!
 
 ## 🎯 Abstract
 
@@ -45,7 +38,7 @@ Neural reflectance models are capable of reproducing the spatially-varying appea
 ```bash
 # Train a neural material model
 python neural_rendering.py --dataset /your/dataset/path
-
+```
 
 
 ## 📖 Citation
@@ -70,18 +63,3 @@ For questions and feedback:
 - Bowen Xue: bowen.xue@postgrad.manchester.ac.uk
 - Project page: [[https://your-project-page.github.io](https://your-project-page.github.io)](https://github.com/yley123/A-Hierarchical-Architecture-for-Neural-Materials)
 
----
-
-<p align="center">
-  <a href="https://www.manchester.ac.uk">
-    <img src="assets/manchester_logo.png" height="80">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.uci.edu">
-    <img src="assets/uci_logo.png" height="80">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://luxion.com">
-    <img src="assets/luxion_logo.png" height="80">
-  </a>
-</p>
