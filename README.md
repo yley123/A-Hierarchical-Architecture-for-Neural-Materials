@@ -1,5 +1,5 @@
 # A Hierarchical Architecture for Neural Materials
-
+ 
 [![Paper](https://img.shields.io/badge/Paper-CGF%202024-blue)](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15116?af=R)
 [![arXiv](https://img.shields.io/badge/arXiv-2307.10135-b31b1b.svg)](https://arxiv.org/abs/2307.10135)
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://github.com/yley123/A-Hierarchical-Architecture-for-Neural-Materials)
